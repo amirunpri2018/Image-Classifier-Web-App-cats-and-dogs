@@ -12,7 +12,7 @@ Installation steps:
 - Then open the Anaconda Command Prompt from start menu.
 - Type the command "pip install flask" on the prompt to install flask.
 - Clone or download the repository.
-- Download the weight file from here and place in it the same directory as other files.
+- Download the weight file from (https://ufile.io/er8gz) and place in it the same directory as other files.
 - Go to the command prompt and run using following command.
   python app.py
 - Open a browser and go to localhost:8000 to see the app in action.

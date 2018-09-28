@@ -1,5 +1,4 @@
 # Image-Classifier-Web-App-cats-and-dogs
-A web app using deep learning to classify an image as a cat or a dog.
 
 This is a small web app which uses a CNN to predict whether the image is of a Cat or a Dog.
 
